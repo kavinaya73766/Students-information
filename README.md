@@ -33,3 +33,7 @@ Based on the data, models are used to predict student performance and future res
 
 Future Improvements
 More data can be added, and advanced models can be used to improve accuracy.
+
+1. BAR CHART
+<img width="707" height="570" alt="image" src="https://github.com/user-attachments/assets/6d01f0be-04d1-416f-80fb-418a8b7cf9c0" />
+
