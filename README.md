@@ -37,3 +37,10 @@ More data can be added, and advanced models can be used to improve accuracy.
 1. BAR CHART
 <img width="707" height="570" alt="image" src="https://github.com/user-attachments/assets/6d01f0be-04d1-416f-80fb-418a8b7cf9c0" />
 
+2.PIE CHART
+<img width="484" height="507" alt="image" src="https://github.com/user-attachments/assets/b1b581c3-681d-4968-9ebd-e1223f92f04f" />
+
+3.HISTOGRAM
+<img width="695" height="564" alt="image" src="https://github.com/user-attachments/assets/096ec088-b43d-4c61-91cb-8086d0e79fbb" />
+
+4.SCATTER CHART
